@@ -128,7 +128,7 @@ Successfully rebased and updated refs/heads/main.
 To commit your own code, e.g. if you want to commit an initial version of pset1:
 
 ```
-git add Homework/Homework_0.ipynb
+git add Exercises/Homework-0.ipynb
 git commit -m "adding some notes to problem set 0"
 git push
 ```
